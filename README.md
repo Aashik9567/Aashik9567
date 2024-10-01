@@ -1,5 +1,10 @@
-<h1 align="center">👋 Hi, I'm AashiQ Mahato</h1>
-<h3 align="center">A Passionate Frontend Developer from Nepal 🇳🇵</h3>
+# 👨‍💻 Aashiq Mahato
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6F7&center=true&vCenter=true&width=435&lines=Electronics+Engineer;IoT+Enthusiast;Frontend+Developer;Embedded+Systems+Expert)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aashik9567&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="aashik9567" />
@@ -11,88 +16,93 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** skilled in building beautiful, responsive, and high-performance web applications using the latest technologies.
+I'm an **Electronics and Communication Engineer** with a passion for bridging the gap between hardware and software. My expertise spans from designing intricate circuits to developing user-friendly web interfaces.
 
-- 🔭 I’m currently working on **React.js** projects with **Tailwind CSS**.
-- 🌱 Learning more about **Next.js** and **TypeScript**.
-- 👯 Looking to collaborate on **open-source React projects**.
-- 💬 Ask me about **JavaScript, React, TailwindCSS, and UI/UX design**.
-- 📫 Reach me at **aashik9567@example.com**.
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aashik9567&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="aashik9567 trophies" />
-  </a>
-</p>
+- 🔭 Currently working on **IoT projects** integrating **React.js** frontends with **Arduino** and **Raspberry Pi**
+- 🌱 Learning **FPGA programming** and **Advanced PCB Design**
+- 👯 Looking to collaborate on **open-source embedded systems projects**
+- 💬 Ask me about **Circuit Design, IoT, Embedded Systems, and Frontend Development**
+- 📫 Reach me at **aashik9567@example.com**
+- 🌐 Portfolio: [aashiqmahato.com](https://aashiqmahato.com)
 
 ---
 
-## 💻 Languages and Tools
+## 🛠️ Skills & Expertise
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+
+| Hardware | Software | Tools |
+|:--------:|:--------:|:-----:|
+| Arduino | Python | MATLAB |
+| Raspberry Pi | JavaScript (React) | Altium Designer |
+| STM32 | C/C++ | LabVIEW |
+| FPGA | Embedded C | Xilinx Vivado |
+| PCB Design | VHDL/Verilog | Oscilloscopes & Logic Analyzers |
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Place, National Robotics Competition 2023
+- 📜 IEEE Best Paper Award for IoT Innovation
+- 🏅 Top 5% in "Advanced Digital Signal Processing" on Coursera
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashik9567&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aashik9567&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashik9567&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aashiq-mahato-9a343b2b4/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/aashik9567" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:aashik9567@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashik9567)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashik9567@example.com)
+
+</div>
 
 ---
 
+<div align="center">
+  
+### 📈 This Week's Coding Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Embedded C   8 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.13 %
+Python       4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+React        3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+VHDL         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Other        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> - <b>Cory House</b>
+  <i>"The best way to predict the future is to create it."</i> - <b>Alan Kay</b>
 </p>
