@@ -11,49 +11,48 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **ReactJS** and **Next.js**
-- 💼 Seeking opportunities to work in **Frontend Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 🌐 [Portfolio](https://your-portfolio-link.com) (add your portfolio link here)
-- 📫 Reach me at **aashik9567@example.com**
+I'm a passionate **Frontend Developer** skilled in building beautiful, responsive, and high-performance web applications using the latest technologies.
+
+- 🔭 I’m currently working on **React.js** projects with **Tailwind CSS**.
+- 🌱 Learning more about **Next.js** and **TypeScript**.
+- 👯 Looking to collaborate on **open-source React projects**.
+- 💬 Ask me about **JavaScript, React, TailwindCSS, and UI/UX design**.
+- 📫 Reach me at **aashik9567@example.com**.
 
 ---
 
-<h3 align="center">🌟 GitHub Trophies</h3>
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aashik9567&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="aashik9567" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aashik9567&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="aashik9567 trophies" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 💻 Languages and Tools
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
 </p>
 
@@ -62,15 +61,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashik9567&show_icons=true&locale=en&layout=compact&theme=radical" alt="aashik9567" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashik9567&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashik9567&show_icons=true&locale=en&theme=radical" alt="aashik9567" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashik9567&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashik9567&theme=radical" alt="aashik9567" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashik9567&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>"Strive not to be a success, but rather to be of value."</i> - <b>Albert Einstein</b>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> - <b>Cory House</b>
 </p>
