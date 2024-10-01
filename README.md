@@ -77,7 +77,7 @@ I'm a passionate **Frontend Developer** skilled in building beautiful, responsiv
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aashiq-mahato-9a343b2b4/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
