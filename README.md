@@ -43,12 +43,6 @@ I'm an **Electronics and Communication Engineer** with a passion for bridging th
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 1st Place, National Robotics Competition 2023
-- 📜 IEEE Best Paper Award for IoT Innovation
-- 🏅 Top 5% in "Advanced Digital Signal Processing" on Coursera
-
 ---
 
 ## 📊 GitHub Stats
