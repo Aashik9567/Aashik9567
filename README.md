@@ -27,19 +27,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[Electronics] --> B[IoT]
-    A --> C[Embedded Systems]
-    B --> D[Frontend Dev]
-    C --> D
-    D --> E[Full-Stack IoT Solutions]
-```
-
-</div>
-
 I'm an **Electronics and Communication Engineer** passionate about bridging hardware and software. My expertise spans from designing intricate circuits to developing user-friendly web interfaces for IoT applications.
 
 - 🔭 Currently working on **IoT projects** integrating **React.js** frontends with **Arduino** and **Raspberry Pi**
