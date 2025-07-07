@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Aashiq Mahato
+# 👨‍💻 Aashik Kumar Mahato
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6F7&center=true&vCenter=true&width=435&lines=Electronics+Engineer;IoT+Enthusiast;Frontend+Developer;Embedded+Systems+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6F7&center=true&vCenter=true&width=435&lines=Dynamic+Web+Developer;React+Enthusiast;Next.js+Expert;TypeScript+Advocate)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/📧-aashik9567%40example.com-blue?style=flat-square&logo=gmail)](mailto:aashik9567@example.com)
-[![](https://img.shields.io/badge/🌐-Portfolio-brightgreen?style=flat-square)](https://aashiqmahato.com)
+[![](https://img.shields.io/badge/📧-aashikmahato9567%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:aashikmahato9567@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aashiq-mahato-9a343b2b4/)
+[![](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github)](https://github.com/Aashik9567)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashik9567&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/aashik9567?style=flat-square&color=important&label=Followers)
@@ -15,24 +16,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=aashik9567&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 About Me
 
-I'm an **Electronics and Communication Engineer** passionate about bridging hardware and software. My expertise spans from designing intricate circuits to developing user-friendly web interfaces for IoT applications.
+I'm a dynamic and results-driven web developer with a passion for crafting exceptional digital experiences. I'm proficient in the complete modern web development ecosystem, from responsive front-end interfaces to robust back-end architectures. I specialize in the React ecosystem with advanced knowledge of Next.js for server-side rendering and static site generation, coupled with TypeScript for type-safe, scalable applications.
 
-- 🔭 Currently working on **IoT projects** integrating **React.js** frontends with **Arduino** and **Raspberry Pi**
-- 🌱 Learning **FPGA programming** and **Advanced PCB Design**
-- 👯 Looking to collaborate on **open-source embedded systems projects**
-- 💬 Ask me about **Circuit Design, IoT, Embedded Systems, and Frontend Development**
+- 🎓 Studying **Engineering in Electronics, Communication and Information** at the **Advanced College of Engineering and Management**.
+- 🔭 I’m currently working on building scalable web applications with **React** and **Next.js**.
+- 🌱 I’m currently learning more about **advanced TypeScript patterns** and **backend development with Node.js**.
+- 👯 I’m looking to collaborate on **open-source projects** that leverage modern web technologies.
+- 💬 Ask me about **React, Next.js, TypeScript, and modern web development**.
 
 ---
 
@@ -40,15 +32,37 @@ I'm an **Electronics and Communication Engineer** passionate about bridging hard
 
 <div align="center">
 
-| Hardware | Software | Tools |
-|:--------:|:--------:|:-----:|
-| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white) |
-| ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white) |
-| ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black) |
-| ![FPGA](https://img.shields.io/badge/-FPGA-FF6C37?style=flat-square&logo=xilinx&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white) |
-| ![PCB Design](https://img.shields.io/badge/-PCB%20Design-00C7B7?style=flat-square&logo=circuitverse&logoColor=white) | ![VHDL](https://img.shields.io/badge/-VHDL-543978?style=flat-square&logo=xilinx&logoColor=white) | ![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-52A9D8?style=flat-square&logo=measurementtechnologybadge&logoColor=white) |
+| Frontend | Backend | Databases | Tools & Platforms |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | | |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | | |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | | |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | |
 
 </div>
+
+---
+
+## 🏆 My Projects
+
+### Automated Attendance Management System
+- Developed an automated attendance system using YOLOv8 and FaceNet.
+- Built a web platform with React, Node.js, and MongoDB for real-time attendance tracking.
+- Implemented email notifications for low attendance alerts.
+- [View on GitHub](https://github.com/Aashik9567/Automated_Attendance_Management_System)
+
+### Weather App - AI-Enhanced Weather Dashboard
+- Real-time weather data with auto-refresh functionality and AI-powered weather analysis.
+- Interactive location search with GPS support and a 10-day detailed forecast.
+- Responsive design with a glass morphism UI.
+- [View on GitHub](https://github.com/Aashik9567/weather-app-NextJs)
+
+### Personal Portfolio Website
+- A responsive personal portfolio website showcasing skills, projects, and achievements.
+- Built with HTML, CSS, JavaScript, and React for an interactive user experience.
+- [View on GitHub](https://github.com/Aashik9567/Portfolio-website)
 
 ---
 
@@ -68,48 +82,6 @@ I'm an **Electronics and Communication Engineer** passionate about bridging hard
 
 ---
 
-## 🔗 Connect with Me
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashik9567)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashik9567@example.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 📈 This Week's Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Embedded C   8 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.13 %
-Python       4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-React        3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-VHDL         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Other        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
-</p>
-
-<p align="center">
   <i>"The best way to predict the future is to create it."</i> - <b>Alan Kay</b>
-</p>
+</div>
