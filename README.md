@@ -1,87 +1,183 @@
 <div align="center">
 
-# 👨‍💻 Aashik Kumar Mahato
+# ⚡ Aashiq Kumar Mahato ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37B6F7&center=true&vCenter=true&width=435&lines=Dynamic+Web+Developer;React+Enthusiast;Next.js+Expert;TypeScript+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+Specialist;Electronics+Engineer;Next.js+Developer)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/📧-aashikmahato9567%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:aashikmahato9567@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aashiq-mahato-9a343b2b4/)
-[![](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github)](https://github.com/Aashik9567)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiq-mahato-9a343b2b4/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashik9567)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-14B8A6?style=for-the-badge&logo=adobe&logoColor=white)](https://aashiqmahato.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashikmahato9567@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashik9567&color=blueviolet&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/aashik9567?style=flat-square&color=important&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/aashik9567?style=flat-square&color=yellow&label=Stars)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a dynamic and results-driven web developer with a passion for crafting exceptional digital experiences. I'm proficient in the complete modern web development ecosystem, from responsive front-end interfaces to robust back-end architectures. I specialize in the React ecosystem with advanced knowledge of Next.js for server-side rendering and static site generation, coupled with TypeScript for type-safe, scalable applications.
-
-- 🎓 Studying **Engineering in Electronics, Communication and Information** at the **Advanced College of Engineering and Management**.
-- 🔭 I’m currently working on building scalable web applications with **React** and **Next.js**.
-- 🌱 I’m currently learning more about **advanced TypeScript patterns** and **backend development with Node.js**.
-- 👯 I’m looking to collaborate on **open-source projects** that leverage modern web technologies.
-- 💬 Ask me about **React, Next.js, TypeScript, and modern web development**.
-
----
-
-## 🛠️ Skills & Expertise
-
-<div align="center">
-
-| Frontend | Backend | Databases | Tools & Platforms |
-|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | | |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | | |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | | |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | | |
+![Profile Views](https://komarev.com/ghpvc/?username=aashik9567&style=flat-square&color=0ea5e9&label=PROFILE+VISITS)
+![GitHub Followers](https://img.shields.io/github/followers/aashik9567?style=flat-square&color=3b82f6&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/aashik9567?style=flat-square&color=eab308&label=Stars)
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## 🏆 My Projects
+Dynamic and results-driven **Full-Stack Developer** with expertise in cutting-edge technologies and a passion for crafting exceptional digital experiences. My background in **Electronics & Communication Engineering** gives me a unique perspective on creating seamless hardware-software integrations.
 
-### Automated Attendance Management System
-- Developed an automated attendance system using YOLOv8 and FaceNet.
-- Built a web platform with React, Node.js, and MongoDB for real-time attendance tracking.
-- Implemented email notifications for low attendance alerts.
-- [View on GitHub](https://github.com/Aashik9567/Automated_Attendance_Management_System)
+- 🔭 Currently working on **Web Applications** with **React** and **Next.js**
+- 🌱 Learning **Advanced TypeScript** and **Cloud Architecture**
+- 💼 Based in **Kathmandu, Nepal**
+- 📫 Reach me at: **aashikmahato9567@gmail.com**
+- 🌐 Check my projects at [github.com/Aashik9567](https://github.com/Aashik9567)
 
-### Weather App - AI-Enhanced Weather Dashboard
-- Real-time weather data with auto-refresh functionality and AI-powered weather analysis.
-- Interactive location search with GPS support and a 10-day detailed forecast.
-- Responsive design with a glass morphism UI.
-- [View on GitHub](https://github.com/Aashik9567/weather-app-NextJs)
+<br/>
 
-### Personal Portfolio Website
-- A responsive personal portfolio website showcasing skills, projects, and achievements.
-- Built with HTML, CSS, JavaScript, and React for an interactive user experience.
-- [View on GitHub](https://github.com/Aashik9567/Portfolio-website)
+## 🚀 Tech Stack
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C/C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashik9567&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashik9567&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashik9567&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashik9567&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</div>
+## 🛠️ Featured Projects
+
+### Automated Attendance Management System
+A facial recognition-based attendance system with real-time tracking.
+- 🔍 Used **YOLOv8** and **FaceNet** for facial detection and recognition
+- 💻 Built with **React**, **Node.js**, and **MongoDB**
+- 📱 Real-time attendance tracking with email notifications
+- 🔗 [View Project](https://github.com/Aashik9567/Automated_Attendance_Management_System)
+
+### AI-Enhanced Weather Dashboard
+Interactive weather application with smart recommendations.
+- 🌦️ Real-time weather data with auto-refresh functionality
+- 🤖 AI-powered weather analysis and recommendations
+- 📍 Location search with GPS support and 10-day forecasts
+- 🎨 Responsive design with dark theme and glass morphism effects
+- 🔗 [View Project](https://github.com/Aashik9567/weather-app-NextJs)
+
+### Personal Portfolio Website
+Responsive showcase of my skills and projects.
+- 🖥️ Built with **React** and modern web technologies
+- 📱 Optimized for performance and mobile compatibility
+- ✨ Interactive UI with smooth navigation
+- 🔗 [View Project](https://github.com/Aashik9567/Portfolio-website)
+
+<br/>
+
+## 🎓 Education
+
+- **B.E. in Electronics, Communication and Information Engineering**  
+  Advanced College of Engineering and Management, Kathmandu (2021-2025)
+
+- **High School Diploma**  
+  Prasadi Academy, Kathmandu (2018-2019)
+
+- **School Leaving Certificate**  
+  Swastik Pathshala, Mirchaiya (2012-2017)
+
+<br/>
+
+## 📈 Weekly Coding Stats
+
+```text
+React.js     10 hrs 35 mins  ██████████▓░░░░░░░░░░  42.3%
+Next.js       6 hrs 47 mins  ███████░░░░░░░░░░░░░░  27.1%
+JavaScript    3 hrs 22 mins  ███▓░░░░░░░░░░░░░░░░░  13.5%
+TypeScript    2 hrs 10 mins  ██▒░░░░░░░░░░░░░░░░░░   8.7%
+Python        1 hr 25 mins   █▓░░░░░░░░░░░░░░░░░░░   5.7%
+Other         0 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░   2.7%
+```
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashik9567&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/Aashik9567">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Other%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>"The best way to predict the future is to create it."</i> - <b>Alan Kay</b>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
+
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i> - <b>Steve Jobs</b>
+</p>
